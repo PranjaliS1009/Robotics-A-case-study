@@ -19,3 +19,18 @@ Let's talk about the Japanese team first. They brought the two bots named 'The g
 Following are the links for the images of above mentioned robots.
 https://www.u-tokyo.ac.jp/content/400101089.jpg
 https://www.u-tokyo.ac.jp/focus/en/articles/z1304_00044.html
+
+MANUAL ROBOT
+Drive system- Four wheel omni drive system was used in manual robots. The double rotor wheel was used in omni drive.
+Control system- It was a pick and place robot which was wirelesly controlled.
+Here is the link for control system of pick and place robot which was used in the manual robot 'The boyfriend'.
+https://www.elprocus.com/pick-n-place-robot/
+Sensors- RFID system (Radio Frequency Identification)
+
+Automatic Robot
+Drive system- Four wheel omni drive was usd in it with double rotor wheels.
+Automation- The automatic robot was designed to throw the shuttle cock in target ring.
+Link for manufacturing of shuttle cock throwing robot
+https://www.researchgate.net/publication/327234346_Design_and_Manufacturing_of_Shuttlecock_Throwing_Robot
+The link for the video of robots is here.
+https://youtu.be/31cei2DQjro
