@@ -34,3 +34,14 @@ Link for manufacturing of shuttle cock throwing robot
 https://www.researchgate.net/publication/327234346_Design_and_Manufacturing_of_Shuttlecock_Throwing_Robot
 The link for the video of robots is here.
 https://youtu.be/31cei2DQjro
+
+
+
+Now we are intoroducing the Sri Lankan Team
+Manual Robot-
+Drive System-Three wheels omni drive system with double rotor wheels was used.
+Control System-It was a pick and place robot which was controled by cable wired remote.
+Automatic Robot-
+Drive system-Three wheels omni drive system with double rotor wheels was used.
+Here is the link for the Video featuring the functions of Srilankan robots.
+https://m.facebook.com/RoboticSoc/videos/311896369369529/
